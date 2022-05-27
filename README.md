@@ -3,10 +3,10 @@
 - 💻 Atualmente estou estagiando na DOUTOR PC.
 - 📖 Estudando PYHTON, FRAMEWORKS e BANCOS DE DADOS.
 
-
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusVilelaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVilelaa&layout=compact&langs_count=7&theme=dark"/>
-
+</div>
 ##
 
  ### Tecnologias que estou aprendendo e utilizando no meu dia a dia!
