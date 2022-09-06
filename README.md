@@ -1,7 +1,7 @@
 ### Olá, eu sou Vinicius Vilela 👋
 
 - 💻 Atualmente estou estagiando na DOUTOR PC.
-- 📖 Estudando PYHTON, FRAMEWORKS e BANCOS DE DADOS.
+- 📖 Estudando HTML, CSS, JAVASCRIPT, REACT, MySQL.
 
 <div style="display: inline-block">
   <a href="https://github.com/viniciusvilelaa">
