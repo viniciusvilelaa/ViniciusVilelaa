@@ -1,6 +1,6 @@
 ### Olá, eu sou Vinicius Vilela 👋
 
-- 💻 Atualmente estou estagiando na DOUTOR PC.
+- 💻 Atualmente estou estagiando no Tribunal Regional do Trabalho da 21ª Região.
 - 📖 Estudando HTML, CSS, JAVASCRIPT, REACT e MySQL.
 
 <div style="display: inline-block">
