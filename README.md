@@ -2,6 +2,7 @@
 
 - 💻 Atualmente estou estagiando no Tribunal Regional do Trabalho da 21ª Região.
 - 📖 Estudando HTML, CSS, JAVASCRIPT, REACT e MySQL.
+- 📄 Sinta-se a vontade para dar uma olhada no meu <a href="https://viniciusvilelaa.github.io/Portfolio/" target="_blank">portfolio!</a>
 
 <div style="display: inline-block">
   <a href="https://github.com/viniciusvilelaa">
