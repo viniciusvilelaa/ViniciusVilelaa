@@ -1,6 +1,6 @@
 ### Olá, eu sou Vinicius Vilela 👋
 
-- 💻 Atualmente estou estagiando no Tribunal Regional do Trabalho da 21ª Região.
+- 💻 Me dedico ao desenvolvimento web, afim de, proprocionar sistemas funcionais e intuitivos.
 - 📖 Estudando HTML, CSS, Javascript, React, SpringBoot e MySQL.
 - 📄 Sinta-se a vontade para dar uma olhada no meu <a href="vinicius-vilela-portfolio.vercel.app" target="_blank">portfolio!</a>
 
