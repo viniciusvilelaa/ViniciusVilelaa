@@ -4,11 +4,11 @@
 - 📖 Estudando HTML, CSS, Javascript, React, SpringBoot e MySQL.
 - 📄 Sinta-se a vontade para dar uma olhada no meu <a href="vinicius-vilela-portfolio.vercel.app" target="_blank">portfolio!</a>
 
-<div style="display: inline-block">
+<!--<div style="display: inline-block">
   <a href="https://github.com/viniciusvilelaa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusvilelaa&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvilelaa&layout=compact&langs_count=7&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
-</div>
+</div>-->
 
 ##
 
