@@ -2,7 +2,7 @@
 
 - 💻 Me dedico ao desenvolvimento web, a fim de proprocionar sistemas funcionais e intuitivos.
 - 📖 Estudando HTML, CSS, Javascript, React, SpringBoot e MySQL.
-- 📄 Sinta-se a vontade para dar uma olhada no meu <a href="vinicius-vilela-portfolio.vercel.app" target="_blank">portfolio!</a>
+- 📄 Sinta-se a vontade para dar uma olhada no meu <a href="[vinicius-vilela-portfolio.vercel.app](https://vinicius-vilela-portfolio.vercel.app)" target="_blank">portfolio!</a>
 
 <!--<div style="display: inline-block">
   <a href="https://github.com/viniciusvilelaa">
