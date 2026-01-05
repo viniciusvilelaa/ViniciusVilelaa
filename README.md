@@ -1,7 +1,7 @@
 ### Olá, eu sou Vinicius Vilela 👋
 
 - 💻 Me dedico ao desenvolvimento web, a fim de proprocionar sistemas funcionais e intuitivos.
-- 📖 Estudando HTML, CSS, Javascript, React, SpringBoot e MySQL.
+- 📖 Estudando Javascript, React, SpringBoot e MySQL.
 - 📄 Sinta-se a vontade para dar uma olhada no meu <a href="https://vinicius-vilela-portfolio.vercel.app" target="_blank">portfolio!</a>
 
 <!--<div style="display: inline-block">
